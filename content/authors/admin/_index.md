@@ -70,8 +70,10 @@ email: "lorenz.wolf17@imperial.ac.uk"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am Lorenz, a recent graduate from the MSc Statistics at Imperial College London. Combining ideas from functional analysis and deep learning I wrote my dissertation on Variational Autoencoders on Hilbert Spaces to generate functional data. I was fortunate to be supervised by {{< staticref "https://www.ma.imperial.ac.uk/~aduncan/" "newtab" >}}Dr Andrew Duncan{{< /staticref >}} at Imperial College London and the Turing Institute. My studies focused on Statistical Machine Learning as well as Simulation Methods and Computational Statistics. Prior to the MSc I completed my BSc in Mathematics with Statistics also at Imperial College London.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+On the application side I am interested in applications of Machine Learning and AI to Health Care among others.
+
+I am always looking for fun projects in the field of machine learning, statistics and data science, so feel free to get in touch if you want to collaborate:)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
