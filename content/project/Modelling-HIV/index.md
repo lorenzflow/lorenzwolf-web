@@ -10,7 +10,7 @@ date: "2021-12-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Transmission Dynamics of HIV (source: https://doi.org/10.1038/s41598-020-79951-2)
+  caption: Transmission Dynamics of HIV
   focal_point: Smart
 
 links:
