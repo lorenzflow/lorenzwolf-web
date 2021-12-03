@@ -22,28 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+    
+  - title: Teaching Assistant
+      company: Imperial College
+      company_url: ''
+      # company_logo: org-x
+      location: London
+      date_start: '2020-08-01'
+      date_end: '2020-09-01'
+      description: Developed teaching materials for the 3rd year module Stochastic Simulation.
+      
+   - title: Tutor
+      company: Imperial College
+      company_url: ''
+      # company_logo: org-x
+      location: London
+      date_start: '2019-10-01'
+      date_end: '2020-06-01'
+      description: Tutored a group of undergraduate students, providing insights into more advanced topics.
+    
+  - title: Undergraduate Researcher
+    company: Imperial College London
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    # company_logo: org-gc
+    location: London
+    date_start: '2019-08-01'
+    date_end: '2019-09-30'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Research
+        * Statistical Modelling
+        * Programming
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
