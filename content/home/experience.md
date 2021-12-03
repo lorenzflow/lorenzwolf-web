@@ -25,7 +25,6 @@ experience:
     
   - title: Teaching Assistant
       company: Imperial College
-      company_url: ''
       location: London
       date_start: '2020-08-01'
       date_end: '2020-09-01'
@@ -40,7 +39,7 @@ experience:
     
   - title: Undergraduate Researcher
     company: Imperial College London
-    company_url: ''
+    # company_url: ''
     location: London
     date_start: '2019-08-01'
     date_end: '2019-09-30'
