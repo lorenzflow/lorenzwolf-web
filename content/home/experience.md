@@ -54,6 +54,18 @@ experience:
         * Research
         * Statistical Modelling
         * Programming
+
+   - title: Tech Consulting Intern
+    company: EY
+    company_url: ''
+    # company_logo: org-gc
+    location: London
+    date_start: '2019-06-01'
+    date_end: '2019-08-01'
+    description: |2-
+        * Analysis
+        * Deliverables
+        * Offered graduate position
         
 
 design:
