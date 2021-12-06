@@ -28,7 +28,7 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 During the summer 2019 I joined Dr Oliver Ratmann for 2 months to conduct research on the spread of HIV. The project was funded by an EPSRC bursuary. 
