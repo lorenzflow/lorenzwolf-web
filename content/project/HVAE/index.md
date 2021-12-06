@@ -46,7 +46,6 @@ perspective of functional data analysis (FDA). The central assumption of FDA is 
 This approach leads to several advantages especially when the observations contain many function evaulations (i.e. very high dimensional vectors).
 
 Motivated by these two observations I explrored the applicability of Variational Autoencoders to functional data by representing the functional data in a basis.
-My full thesis can be found here and more high level slides are available at the link above.
-
+My full thesis can be downloaded {{< staticref "uploads/FDA Thesis.pdf" "newtab" >}}here{{< /staticref >}}.
 
 
