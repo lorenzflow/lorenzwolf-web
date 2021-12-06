@@ -73,8 +73,8 @@ highlight_name: true
 Hi! I am Lorenz, a recent graduate from the MSc Statistics at Imperial College London currently looking for PhD opportunities. I wrote my dissertation on Variational Autoencoders on Hilbert Spaces to generate functional data, which allowed me to combine ideas from functional analysis and deep learning. I was fortunate to be supervised by {{< staticref "https://www.ma.imperial.ac.uk/~aduncan/" "newtab" >}}Dr Andrew Duncan{{< /staticref >}} at Imperial College London and the {{< staticref "https://www.turing.ac.uk/" "newtab" >}} Alan Turing Institute{{< /staticref >}}.
 
 Generally, my studies focused on Statistical Machine Learning as well as Simulation Methods and Computational Statistics. I was fortunate to be supported by the Basil Furneaux Memorial Scholarship throughout the MSc. Prior to the MSc, I completed my BSc in Mathematics with Statistics also at Imperial College London.
-# Regarding applications I am interested in Machine Learning and AI applied to health care and medicine.
 
+Regarding applications I am interested in Machine Learning and AI applied to health care and medicine. 
 I am always looking for fun projects in the field of machine learning, statistics and data science, so feel free to get in touch if you want to collaborate:)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Academia_web.pdf" "newtab" >}}resumé{{< /staticref >}}.
