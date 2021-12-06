@@ -58,7 +58,7 @@ experience:
     description: |2-
       Responsibilities include:
 
-      * Analysis
+      * Data Analysis
       * Deliverables
       * Offered graduate position
         
