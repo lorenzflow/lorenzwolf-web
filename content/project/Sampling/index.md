@@ -36,7 +36,7 @@ links:
 Markoc Chain Monte Carlo (MCMC) is a popular technique in Bayesian inference and statistics. It allows the approximation of intractible integrals as well as sampling from an intractible distribution. A common challenge with MCMC is the choice of the proposall distribution, as this critically affects the mixing of the change and consequently the quality of any approximations deduced from the samples. We need to find a balance between good mixing and computational efficiency to quickly sample from the proposal. With increasing dimensionality tuning the proposal distribution becomes harder and harder which lead to the suggestion of adaptive proposal distributions. [Haario et al.](https://link.springer.com/article/10.1007/s001800050022) proposed such an algorithm adjusting the proposal distribution based on the already obtained samples. 
 
 In the first part I implemented and compared the standard MCMC and the adaptive MCMC for the following density on $\mathbb{R}^{2}$
-$f(x, y) = k \exp \left\{-\frac{x^{2}}{100}-\left(y+\frac{3}{100} x^{2}-3\right)^{2}\right\}.$
+$$f(x, y) = k * exp \left\{-\frac{x^{2}}{100}-\left(y+\frac{3}{100} x^{2}-3\right)^{2}\right\}.$$
 
 Summarising the results, the adaptive proposal performed better with the key aspects being:
 - Increased computational efficiency
@@ -46,5 +46,5 @@ Summarising the results, the adaptive proposal performed better with the key asp
 
 Another challenge is multimodality. With the wrong proposal distribution we may only capture the dominant mode or the chain can be become very sticky. One way to address this issue is tempering. In the second part I compared an additive random walk metropols hastings algorithm with a parallel tempering scheme.
 
-The full project report can be downloaded here {{< staticref "uploads/Sampling/report.pdf" "newtab" >}}here{{< /staticref >}}.
+The full project report including code can be downloaded here {{< staticref "uploads/Sampling/report.pdf" "newtab" >}}here{{< /staticref >}}.
 
