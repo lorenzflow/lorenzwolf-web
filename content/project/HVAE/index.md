@@ -1,6 +1,6 @@
 ---
 title: VAE on Hilbert Spaces to generate functional data
-summary: My MSc thesis project with slides for a related talk I gave at a seminar.
+summary: During my MSc thesis I explored ways to synthesise functional data using techniques from deep learning. Feel free to download the full thesis or slides for a related talk I gave at a seminar.
 tags:
 - Functional Data Analysis
 - Generative Models
