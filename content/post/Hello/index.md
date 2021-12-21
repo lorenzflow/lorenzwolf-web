@@ -38,7 +38,6 @@ categories:
 
 ---
 
-## Overview
 Hello and welcome! In this section of my website I will write about anything I find interesting. 
 The only time I wrote a Blog before was during my travels after high school, so my family and friends could follow along. 
 This time will be different and is new territory for me so please bare with me as I figure it out. I plan to write about the current topics in Machine Learning, papers I read,
