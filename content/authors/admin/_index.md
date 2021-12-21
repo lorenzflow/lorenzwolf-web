@@ -76,5 +76,3 @@ Generally, my studies focused on Statistical Machine Learning as well as Simulat
 
 Regarding applications I am interested in Machine Learning and AI applied to health care and medicine. 
 I am always looking for fun projects in the field of machine learning, statistics and data science, so feel free to get in touch if you want to collaborate:)
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Academia_web.pdf" "newtab" >}}resumé{{< /staticref >}}.
