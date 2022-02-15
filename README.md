@@ -1,1 +1,1 @@
-[Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+[Website theme](https://github.com/wowchemy/starter-hugo-academic)
